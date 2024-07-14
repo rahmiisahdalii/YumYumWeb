@@ -3,7 +3,7 @@
 
 
 -->Main Page
-![Screenshot_YumYum](https://github.com/user-attachments/assets/6f4bb15b-8178-4123-bc1e-99419f1f53d3)
+![main](https://github.com/user-attachments/assets/fdab291d-d733-4a87-92a2-ed644b2930e3)
 
 -->Restourant Page
 ![Restoranlarımız](https://github.com/user-attachments/assets/9637903d-1494-43a7-835f-969b0a5ae0ac)
